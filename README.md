@@ -1,4 +1,4 @@
-### Hello there, I'm Hrishikesh  👋
+
 
 - 🌱 I’m currently working on an open source platform for sharing ideas 💡
 - 👯 I’m open to collaborate with other developers
